@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+
+
+#spree-header {
+  background-color: #921c1c !important;
+}	
+
+.pagination > .active > a, .pagination > .active > a:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span,
+.pagination > .active > span:hover,
+.pagination > .active > span:focus {
+	background-color: #921c1c !important;
+}
